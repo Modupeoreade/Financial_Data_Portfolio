@@ -61,5 +61,5 @@ Data Analyst specialising in:
 - Insight storytelling  
 - AI‑assisted analytics workflows  
 
-Actively seeking **mid‑level data analyst roles** in the UK.
+
 
